@@ -1,0 +1,10 @@
+C:\Users\scarb\Source\Repos\AccountingFirm.cs\AccountingFirm.cs\bin\Debug\netcoreapp3.0\AccountingFirm.cs.exe
+C:\Users\scarb\Source\Repos\AccountingFirm.cs\AccountingFirm.cs\bin\Debug\netcoreapp3.0\AccountingFirm.cs.deps.json
+C:\Users\scarb\Source\Repos\AccountingFirm.cs\AccountingFirm.cs\bin\Debug\netcoreapp3.0\AccountingFirm.cs.runtimeconfig.json
+C:\Users\scarb\Source\Repos\AccountingFirm.cs\AccountingFirm.cs\bin\Debug\netcoreapp3.0\AccountingFirm.cs.runtimeconfig.dev.json
+C:\Users\scarb\Source\Repos\AccountingFirm.cs\AccountingFirm.cs\bin\Debug\netcoreapp3.0\AccountingFirm.cs.dll
+C:\Users\scarb\Source\Repos\AccountingFirm.cs\AccountingFirm.cs\bin\Debug\netcoreapp3.0\AccountingFirm.cs.pdb
+C:\Users\scarb\Source\Repos\AccountingFirm.cs\AccountingFirm.cs\obj\Debug\netcoreapp3.0\AccountingFirm.cs.AssemblyInfoInputs.cache
+C:\Users\scarb\Source\Repos\AccountingFirm.cs\AccountingFirm.cs\obj\Debug\netcoreapp3.0\AccountingFirm.cs.AssemblyInfo.cs
+C:\Users\scarb\Source\Repos\AccountingFirm.cs\AccountingFirm.cs\obj\Debug\netcoreapp3.0\AccountingFirm.cs.dll
+C:\Users\scarb\Source\Repos\AccountingFirm.cs\AccountingFirm.cs\obj\Debug\netcoreapp3.0\AccountingFirm.cs.pdb
